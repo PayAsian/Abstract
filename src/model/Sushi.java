@@ -4,3 +4,4 @@ public class Sushi implements Food
 {
 
 }
+ 
